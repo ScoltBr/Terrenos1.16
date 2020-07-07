@@ -1,0 +1,8 @@
+name: ScoltTerrenos
+authors: ScoltBr
+version: 06.05.2020
+main: me.scoltbr.terrenos.Main
+api-version: 1.16
+commands:
+  terrenos:
+    aliases: [terreno, p, t, plot]
